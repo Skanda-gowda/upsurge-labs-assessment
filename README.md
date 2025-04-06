@@ -92,7 +92,10 @@ Demonstrate the AI system working effectively within *each* environment separate
 *   **Browser Execution:**
     *   AI interprets instructions related to web tasks (e.g., "find reviews for product X").
     *   Navigates to appropriate websites.
-    *   Extracts relevant information accurately. 
+    *   Extracts relevant information accurately.
+
+      ![alt](browser.jpg.png)
+    
 *   **Terminal Execution:**
     *   AI runs appropriate terminal commands based on instructions (e.g., "list files in directory Y", "run script Z").
     *   Processes data using scripts or standard command-line tools.

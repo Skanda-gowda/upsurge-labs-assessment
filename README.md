@@ -100,11 +100,14 @@ Demonstrate the AI system working effectively within *each* environment separate
     *   AI runs appropriate terminal commands based on instructions (e.g., "list files in directory Y", "run script Z").
     *   Processes data using scripts or standard command-line tools.
     *   Handles command errors gracefully (e.g., command not found, permission denied).
+
+        ![alt](terminal.png)
+        
 *   **File System Execution:**
     *   AI creates, reads, modifies, and deletes files/directories as instructed.
     *   Organizes data into appropriate formats (e.g., saving scraped data to CSV).
     *   Manages file locations correctly.
-
+ ![alt](file.png)
 ### Stage 2: Dual Environment Integration (Target: 30% Capability)
 Demonstrate the AI connecting *two* environments to accomplish a task:
 
